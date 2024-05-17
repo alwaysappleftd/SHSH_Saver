@@ -10,9 +10,9 @@ How to use SHSH Saver:
 
 1. Open up the app file in the folder you downloaded. If you see the warning that says "Unidentified developer", then just simply right-click on the app file and select "Open". Then, the Mac will allow you to override the warning and open the app.
 If the app still won’t open, follow these steps:
-  1. Open a blank Terminal window. You can find the Terminal app in the Other folder in your Launchpad.
-  2. Type, in lowercase, xattr -cr (without quotes), then drag and drop the Lockra1n application you downloaded into the Terminal window.
-  3. Press Enter to run the command.
+   Open a blank Terminal window. You can find the Terminal app in the Other folder in your Launchpad.
+   Type, in lowercase, xattr -cr (without quotes), then drag and drop the Lockra1n application you downloaded into the Terminal window.
+   Press Enter to run the command.
 These steps should allow the app to open. If you encounter any further launching issues, please contact me.
 
 3. Connect your device to the computer, then enter DFU Mode on your device. If you don't know how, then you can find out how to enter DFU Mode by just Googling "How to Enter DFU Mode on" and then your device model. Example might be "How to Enter DFU Mode on iPhone 8".
