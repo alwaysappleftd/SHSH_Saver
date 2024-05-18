@@ -3,8 +3,7 @@ This is a free tool for saving the onboard SHSH Blobs of A7 to A11 devices.
 
 The tool supports the iPhone 5s to iPhone X, iPad 5th generation to 7th generation, iPad Pro 12.9-inch (2015), iPad Pro 9.7-inch (2016), iPad Pro 10.5-inch 1st generation and the iPod touch 6th/7th generation.
 
-NOTE: This is the source code (Xcode project) for SHSH Saver. I have not uploaded the .app file to the Releases section yet. That will be coming soon.
-For now, you can use this link to download the app from MediaFire: https://www.mediafire.com/file/t5cd5kt12no3ahh/SHSH_Saver_v1.2.zip/file
+NOTE: This is the source code (Xcode project) for SHSH Saver. To download the compiled version, visit the Releases section of this repository to get the latest release. If you want, you can also use this link to download the same app version from MediaFire: https://www.mediafire.com/file/t5cd5kt12no3ahh/SHSH_Saver_v1.2.zip/file
 
 How to use SHSH Saver:
 
